@@ -1,0 +1,2 @@
+encoder:
+  image: "localhost:5000/my-encoder"
